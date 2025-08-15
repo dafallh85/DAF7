@@ -1,0 +1,15 @@
+{
+  "name": "SMRTDAYF",
+  "symbol": "DAF7",
+  "contract_address": "0xAa9A037b3Ce678F66E603dE74dAFb5dAeCc59D1B",
+  "decimals": 18,
+  "network": "BNB Smart Chain (BEP-20)",
+  "total_supply": "1000000000",
+  "website": "https://daf7.com/",
+  "official_email": "daf7@daf7.com",
+  "telegram_community": "https://t.me/DAF7DAF7",
+  "telegram_channel": "https://t.me/SMRTDAYFDAF7",
+  "twitter": "https://x.com/daf7daf7",
+  "logo": "assets/logo.png",
+  "description": "A vibrant community combining AI-powered DeFi, memes, and pop culture — where fun and rewards never stop!"
+}
