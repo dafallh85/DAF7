@@ -10,8 +10,8 @@
 - **Network:** BNB Smart Chain (BEP-20)
 
 ## Official Links
-- **Website:** [https://daf7.com/](https://daf7.com/)
-- **Email:** daf7@daf7.com
+- **Website:** [https://daf7.store/](https://daf7.store/)
+- **Email:** daf7@daf7.store
 - **Twitter (X):** [https://x.com/daf7daf7](https://x.com/daf7daf7)
 - **Telegram (Community):** [https://t.me/DAF7DAF7](https://t.me/DAF7DAF7)
 - **Telegram (Channel):** [https://t.me/SMRTDAYFDAF7](https://t.me/SMRTDAYFDAF7)
