@@ -64,7 +64,7 @@ Complete user interface update
 
 ------
 ### 🟫 Q4 2028
-- ا
+
 ---
 Reaching 250,000 members
 - 2028 report and launch of Vision 2029
