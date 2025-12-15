@@ -15,6 +15,6 @@
 - **Twitter (X):** [https://x.com/daf7daf7](https://x.com/daf7daf7)
 - **Telegram (Community):** [https://t.me/DAF7DAF7](https://t.me/DAF7DAF7)
 - **Telegram (Channel):** [https://t.me/SMRTDAYFDAF7](https://t.me/SMRTDAYFDAF7)
-📬 Telegram Contact: https://t.me/Token_Officer
+-📬 Telegram Contact: https://t.me/Token_Officer
 ## Description
 A vibrant community combining AI-powered DeFi, memes, and pop culture — where fun and rewards never stop! 🚀
