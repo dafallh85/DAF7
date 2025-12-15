@@ -1,120 +1,103 @@
 # 🚀 ROADMAP — SMARTDAYF (DAF7)
 # الفترة: 2026 – 2030
 
-هذه خارطة الطريق الرسمية لمشروع **SMARTDAYF — DAF7**  
-تمثل خطة التطوير والتوسع على مدى خمس سنوات قادمة.
+This is the official roadmap for the **SMARTDAYF — DAF7** project. It represents the development and expansion plan over the next five years.
 
 ---
 
 ## 📅 عام 2026
 
 ### 🟩 Q1 2026
-- إطلاق الموقع الرسمي 2.0  
-- تفعيل جميع القنوات الرسمية (X – Telegram – GitHub – الموقع)  
-- توثيق العملة على BscScan واعتماد الشعار والرمز  
-- بداية الحملات التسويقية وجذب أول 5,000 عضو  
-- تأسيس هوية المشروع وتوحيد العلامة التجارية  
-
+-Launching the official website 2.0
+- Activating all official channels (X – Telegram – GitHub – Website)
+- Verifying the currency on BscScan and approving the logo and symbol
+- Starting marketing campaigns and attracting the first 5,000 members
+- Establishing the project's identity and unifying the brand
 ### 🟩 Q2 2026
-- إطلاق النسخة التجريبية للمنصة (Beta)  
-- الإدراج الأول على منصة DEX  
-- بدء برنامج السفراء  
-- بداية حملات التسويق الدولية  
-
+- Launch of the platform's beta version
+- First listing on the DEX platform
+- Launch of the ambassador program
+- Commencement of international marketing campaigns
 ### 🟩 Q3 2026
-- إطلاق نظام المكافآت / Staking  
-- توسيع المجتمع إلى 20,000 عضو  
-- أول إدراج على منصة CEX  
 
-### 🟩 Q4 2026
-- إطلاق النسخة الرسمية للمنصة 1.0  
-- التعاون مع مشاريع AI و Web3  
-- إصدار تقرير نهاية العام  
+### 🟩 Q4 2026- Launch of the staking system
+- Expanding the community to 20,000 members
+- First listing on the CEX platform
 
----
+---- Launch of the official platform version 1.0 - Collaboration with AI and Web3 projects - Release of the year-end report
 
 ## 📅 عام 2027
 
 ### 🟦 Q1 2027
-- العمل على تطوير منصة 2.0  
-- وصول المجتمع إلى 50,000 عضو  
-- إطلاق خدمات ذكية جديدة مدعومة بالذكاء الاصطناعي  
-
+- Working on developing platform 2.0
+- Reaching a community of 50,000 members
+- Launching new smart services powered by artificial intelligence
 ### 🟦 Q2 2027
-- توسعات دولية (آسيا – أوروبا)  
-- إدراجات إضافية في منصات مركزية  
-- رفع حجم السيولة والتداول بنسبة 100%  
 
-### 🟦 Q3 2027
-- إطلاق Marketplace أو NFT Hub  
-- شراكات عالمية مع مطوري Web3  
-- تدقيق أمني شامل للمشروع  
-
+### 🟦 Q3 2027- International expansions (Asia – Europe)
+- Additional listings on centralized platforms
+- 100% increase in liquidity and trading volume
+-Launching a Marketplace or NFT Hub
+- Global partnerships with Web3 developers
+- Comprehensive project security audit
 ### 🟦 Q4 2027
-- دمج تقنيات AI/DeFi  
-- الوصول إلى 100,000 عضو  
-- تقرير نهاية العام  
-
+- 
 ---
 
-## 📅 عام 2028
+## 📅 عام 2028Integrating AI/DeFi Technologies
+- Reaching 100,000 Members
+- Year-End Report
 
 ### 🟫 Q1 2028
-- تحديث واجهة المستخدم بالكامل  
-- إضافة مصادر دخل جديدة للمجتمع  
-- حملات اعتماد مؤسسية  
-
+-  
+Complete user interface update
+- Added new revenue streams for the community
+- Institutional accreditation campaigns
 ### 🟫 Q2 2028
-- إدراجات جديدة في ٣ منصات مركزية  
-- شراكات DeFi عالمية  
-- توسيع الفريق التقني  
+-  New listings on 3 central platforms
+- Global DeFi partnerships
+- Expanded technical team
 
 ### 🟫 Q3 2028
-- إطلاق أدوات ومحافظ خاصة بالمشروع  
-- بناء منظومة Ecosystem 3.0  
+- Launching project-specific tools and portfolios
+- Building Ecosystem 3.0- Launch of an annual project conference
 
+------
 ### 🟫 Q4 2028
-- الوصول إلى 250,000 عضو  
-- تقرير عام 2028 وإطلاق رؤية 2029  
-
+- ا
 ---
-
+Reaching 250,000 members
+- 2028 report and launch of Vision 2029
 ## 📅 عام 2029
 
 ### 🟨 Q1 2029
-- إطلاق نسخة 4.0 المتقدمة  
-- اعتماد العملة في قطاعات وشركات  
-
+- Launch of the advanced version 4.0 - Currency adoption in various sectors and companies
 ### 🟨 Q2 2029
-- إطلاق آلية حرق Burn جديدة  
-- توسع دولي أكبر  
-
+-Launch of a new Burn mechanism - Greater international expansion
 ### 🟨 Q3 2029
-- تطوير شبكة Layer أو Chain (اختياري)  
-- الوصول إلى 500,000 عضو  
+- 
+- الإدراج في أفضل 10 منDevelop a Layer or Chain network (optional)
+- Reach 500,000 members
 
-### 🟨 Q4 2029
-- الإدراج في أفضل 10 منصات عالمية  
-- إطلاق مؤتمر سنوي للمشروع  
 
----
-
-## 📅 عام 2030
+## 📅 2030
 
 ### 🟧 Q1 2030
-- إطلاق Super App أو Chain 1.0  
-- تهيئة الاعتماد المؤسسي  
+- Launch of Super App or Chain 1.0
+- Preparation for institutional accreditation
 
 ### 🟧 Q2 2030
-- توسع عالمي شامل  
-- الوصول إلى مليون مستخدم  
+- Comprehensive global expansion
+- Reaching one million users
 
 ### 🟧 Q3 2030
-- إطلاق خدمات اقتصادية وتقنية جديدة  
+- Launch of new economic and technological services
 
 ### 🟧 Q4 2030
-- تقرير نهاية 2030  
-- إطلاق رؤية 2031 – 2035  
-- تثبيت المشروع كأحد أكبر المشاريع في السوق  
+- End-of-2030 report
+- Launch of Vision 2031-2035
+- Establishing the project as one of the largest in the market
 
----
+
+
+### 🟨 Q4 2029صات عالمية  
