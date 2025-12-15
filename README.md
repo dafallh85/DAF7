@@ -16,5 +16,7 @@
 - **Telegram (Community):** [https://t.me/DAF7DAF7](https://t.me/DAF7DAF7)
 - **Telegram (Channel):** [https://t.me/SMRTDAYFDAF7](https://t.me/SMRTDAYFDAF7)
 -📬 Telegram Contact: https://t.me/Token_Officer
+https://bscscan.com/token/0xAa9A037b3Ce678F66E603dE74dAFb5dAeCc59D1B
+https://github.com/dafallh85/DAF7
 ## Description
 A vibrant community combining AI-powered DeFi, memes, and pop culture — where fun and rewards never stop! 🚀
