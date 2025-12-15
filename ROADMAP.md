@@ -76,9 +76,8 @@ Reaching 250,000 members
 -Launch of a new Burn mechanism - Greater international expansion
 ### 🟨 Q3 2029
 - 
-- الإدراج في أفضل 10 منDevelop a Layer or Chain network (optional)
+-Listed in the top 10 of Develop a Layer or Chain network (optional)
 - Reach 500,000 members
-
 
 ## 📅 2030
 
